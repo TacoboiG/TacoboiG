@@ -11,7 +11,7 @@ I love coding in Java :coffee:. I work at [Atopia Network](https://twitter.com/a
 ### Let's Connect :coffee:
 <p align="center">
 	<a href="https://github.com/TacoboiG"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a><img src="https://img.icons8.com/bubbles/50/000000/discord-logo.png" alt="xDabDoub#0001 (692280512848461875)"/></a>
+	<a href="https://discord.gg/jMjkaen6bR"><img src="https://img.icons8.com/bubbles/50/000000/discord-logo.png" alt="xDabDoub#0001 (692280512848461875)"/></a>
 	<a href="https://twitter.com/xdabdoub0"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
 
