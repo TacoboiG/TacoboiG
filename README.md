@@ -1,4 +1,4 @@
-![alt text](./images/top.svg)
+![alt text](./images/Top.png)
 
 I love coding in Java :coffee:. I work at [Atopia Network](https://twitter.com/atopiamc) as a Game Developer.
 
@@ -15,4 +15,4 @@ I love coding in Java :coffee:. I work at [Atopia Network](https://twitter.com/a
 	<a href="https://twitter.com/xdabdoub0"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
 
-![alt text](./images/bottom.svg)
+![alt text](./images/bottom.png)
