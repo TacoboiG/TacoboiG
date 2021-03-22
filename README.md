@@ -5,7 +5,7 @@ I love coding in Java :coffee:. I work at [Atopia Network](https://twitter.com/a
 ⚡ Fun fact:
 - 👯 I’m looking to collaborate on projects that are using Java/SpigotAPI.
 - :pencil2: 22th February of 2005.
-- 💞 Been coding Java for a year now!
+- 💞 Been coding Java for almost a year now!
 
 
 ### Let's Connect :coffee:
